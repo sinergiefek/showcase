@@ -61,5 +61,5 @@ Every line of code must answer to the bottom line. Whether it is routing LLM tok
 
 <div align="center">
   <h3>Let's Engineer Your Next Unfair Advantage.</h3>
-  <p>Open for high-level B2B consulting, architectural audits, and joint ventures.</p>
+  <p>Open for high-level B2B and B2C consulting, architectural audits, and joint ventures.</p>
 </div>
